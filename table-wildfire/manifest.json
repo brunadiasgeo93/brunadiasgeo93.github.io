@@ -1,0 +1,15 @@
+{
+  "name": "table-wildfire",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.17.0",
+  "author": "Bruna Aparecida Silva Dias",
+  "label": "Table-wildfire",
+  "description": "Widget de focos por categoria fundiária.",
+  "icon": "icon.svg",
+  "properties": {},
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  }
+}
