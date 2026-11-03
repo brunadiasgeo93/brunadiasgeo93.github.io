@@ -1,0 +1,19 @@
+{
+  "name": "filter-wildfire",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.17.0",
+  "author": "Bruna Aparecida Silva Dias",
+  "label": "Filtro em Cascata",
+  "description": "Widget de filtro rápido em cascata para Região, Estado, Município e Ano.",
+  "icon": "icon.svg",
+  "publishMessages": [
+    "DATA_SOURCE_FILTER_CHANGE",
+    "DATA_RECORDS_SELECTION_CHANGE"
+  ],
+  "properties": {},
+  "defaultSize": {
+    "width": 320,
+    "height": 380
+  }
+}
