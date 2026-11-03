@@ -1,0 +1,18 @@
+{
+  "name": "legend-wildfire",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.17.0",
+  "author": "Bruna Aparecida Silva Dias",
+  "label": "Legenda Editável",
+  "description": "Legenda customizada com controle de visibilidade (ligar/desligar camadas) e renomeação de títulos.",
+  "icon": "icon.svg",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "properties": {},
+  "defaultSize": {
+    "width": 300,
+    "height": 380
+  }
+}
