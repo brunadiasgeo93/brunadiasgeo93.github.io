@@ -1,0 +1,18 @@
+{
+  "name": "filter-territorios-sync",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.17.0",
+  "author": "Bruna Aparecida Silva Dias",
+  "label": "Filtro Sincronizado de Territórios",
+  "description": "Sincroniza automaticamente o subconjunto de territórios a partir do filtro de CCDRUs, tornando a opção '- Todos -' dinâmica.",
+  "icon": "filter.svg",
+  "publishMessages": [
+    "DATA_SOURCE_FILTER_CHANGE"
+  ],
+  "properties": {},
+  "defaultSize": {
+    "width": 320,
+    "height": 90
+  }
+}
